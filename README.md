@@ -12,7 +12,7 @@ Sou um entusiasta da Segurança da Informação e programação Front-end!
 🐱‍💻 Dono da página [Iniciativa Xiaomi](https://www.facebook.com/iniciativaxiaomi/)<br>
 
 
-### Habilidades: <br/> <br/> ![HTML](https://img.shields.io/badge/-HTML-ff0d00?style=flat&logoColor=white&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-196eff?style=flat&logoColor=white&logo=css3)![JavaScript](https://img.shields.io/badge/-JavaScript-ffdd19?style=flat&logoColor=white&logo=javascript) ![Linux](https://img.shields.io/badge/-linux-black?style=flat&logo=linux)
+### Habilidades: <br/> <br/> ![HTML](https://img.shields.io/badge/-HTML-ff0d00?style=flat&logoColor=white&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-196eff?style=flat&logoColor=white&logo=css3)![JavaScript](https://img.shields.io/badge/-JavaScript-ffdd19?style=flat&logoColor=white&logo=javascript) ![Linux](https://img.shields.io/badge/-Linux-black?style=flat&logo=linux) ![Kali Linux](https://img.shields.io/badge/-Kali Linux-black?style=flat&logo=linux)
 <!--
 **adrfelipe/adrfelipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
