@@ -8,7 +8,7 @@ Sou um entusiasta da Segurança da Informação e programação Front-end!
 
 💻 Atualmente sou Analista de TI Júnior na **Faculdade Flamingo**<br>
 📚  Estudando Seguraça da Informação e Programação Web<br>
-👨‍💻 Faço graduação em Gestão de TI na [Faculdade Flamingo](https://www.faculdadeflamingo.com.br/)<br>
+👨‍💻 Faço graduação em Análisa e Desenvolvimento de Sistemas na [Faculdade Flamingo](https://www.faculdadeflamingo.com.br/)<br>
 🐱‍💻 Dono da página [Iniciativa Xiaomi](https://www.facebook.com/iniciativaxiaomi/)<br>
 
 
