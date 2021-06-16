@@ -3,12 +3,12 @@
 ### Seja bem vindo! </br>
 # [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adrfelipe/)](https://www.linkedin.com/in/adrfelipe/) [![Github Badge](https://img.shields.io/badge/-Github-242A2D?style=flat&logo=Github&logoColor=white&link=https://github.com/adrfelipe)](https://github.com/adrfelipe) [![Gmail Badge](https://img.shields.io/badge/-adrfelipe.sz@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adrfelipe.sz@gmail.com)](mailto:adrfelipe.sz@gmail.com)
 
-Meu nome é André Felipe, sou Analista de TI Júnior e Professor.</br>
-Sou um entusiasta da Segurança da Informação e programação Front-end!
+Meu nome é André Felipe</br>
+Sou um entusiasta da Segurança da Informação e programação Full Stack!
 
-💻 Atualmente sou Analista de TI Júnior na **Faculdade Flamingo**<br>
+💻 Atualmente estou procurando uma oportunidade!<br>
 📚  Estudando Seguraça da Informação e Programação Web<br>
-👨‍💻 Faço graduação em Análisa e Desenvolvimento de Sistemas na [Faculdade Flamingo](https://www.faculdadeflamingo.com.br/)<br>
+👨‍💻 Sou formado em Gestão de TI e Analise e Desenvolvimento de Sistema na [Faculdade Flamingo](https://www.faculdadeflamingo.com.br/)<br>
 🐱‍💻 Dono da página [Iniciativa Xiaomi](https://www.facebook.com/iniciativaxiaomi/)<br>
 
 
