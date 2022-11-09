@@ -6,10 +6,9 @@
 Meu nome é André Felipe</br>
 Sou um entusiasta da Segurança da Informação e programação Full Stack!
 
-💻 Atualmente estou procurando uma oportunidade!<br>
+💻 Atualmente sou Desenvolvedor Front-End na Alumia!<br>
 📚  Estudando Seguraça da Informação e Programação Web<br>
 👨‍💻 Sou formado em Gestão de TI e Analise e Desenvolvimento de Sistema na [Faculdade Flamingo](https://www.faculdadeflamingo.com.br/)<br>
-🐱‍💻 Dono da página [Iniciativa Xiaomi](https://www.facebook.com/iniciativaxiaomi/)<br>
 
 
 ### Habilidades: <br/> <br/> ![HTML](https://img.shields.io/badge/-HTML-ff0d00?style=flat&logoColor=white&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-196eff?style=flat&logoColor=white&logo=css3)![JavaScript](https://img.shields.io/badge/-JavaScript-ffdd19?style=flat&logoColor=white&logo=javascript) ![Linux](https://img.shields.io/badge/-Linux-black?style=flat&logo=linux) ![Kali Linux](https://img.shields.io/badge/-KaliLinux-black?style=flat&logo=linux)
