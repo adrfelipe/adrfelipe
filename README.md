@@ -4,7 +4,7 @@ Gosto de compartilhar conhecimento e resolver problemas. ❤️
 
 ## 📂 Mais sobre mim
 
-<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=adrfelipe&show_icons=true&theme=dracula&line_height=27" alt="**André Felipe** github stats"/>
+<img align="right" width="300" src="https://github-readme-stats.vercel.app/api?username=adrfelipe&show_icons=true&theme=dracula&line_height=27" alt="**André Felipe** github stats"/>
 
 
 
