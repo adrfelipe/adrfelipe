@@ -48,7 +48,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 
 **Front-End Developer** \
 [**Alumia**](https://alumia.online//) • Full-time \
-Linguagens & Tecnologias: `HTML`, `CSS3`, `JavaScript`, `TypeScript`, `GScripts`\
+Linguagens & Tecnologias: `HTML`, `CSS3`, `JavaScript`, `TypeScript`, `Google Scripts`
 
 <br/>
 
