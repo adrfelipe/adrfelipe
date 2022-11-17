@@ -42,7 +42,6 @@ const aboutMe = [
 <br>
 
 ### Experiência de trabalho
-Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://carreiras.alumia.online/wp-content/uploads/2022/04/logo-alumia-branco-1.svg"/>](https://www.spacex.com/)
 
@@ -70,5 +69,5 @@ Projetos em destaque: [Portal GIS Oi](https://gestaointegrada.oi.net.br/)
 <br/>
 <br/>
 
-Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/adrfelipe/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
+Para mais detalhes sobre formações acadêmicas e experiências de trabalho acesse meu [LinkedIn](https://www.linkedin.com/in/adrfelipe/)
 
