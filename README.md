@@ -1,28 +1,74 @@
-# André Felipe </br>
+### Olá! 👋
 
-### Seja bem vindo! </br>
-# [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adrfelipe/)](https://www.linkedin.com/in/adrfelipe/) [![Github Badge](https://img.shields.io/badge/-Github-242A2D?style=flat&logo=Github&logoColor=white&link=https://github.com/adrfelipe)](https://github.com/adrfelipe) [![Gmail Badge](https://img.shields.io/badge/-adrfelipe.sz@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adrfelipe.sz@gmail.com)](mailto:adrfelipe.sz@gmail.com)
+Gosto de compartilhar conhecimento e resolver problemas. ❤️
 
-Meu nome é André Felipe</br>
-Sou um entusiasta da Segurança da Informação e programação Full Stack!
+## 📂 Mais sobre mim
 
-💻 Atualmente sou Desenvolvedor Front-End na Alumia!<br>
-📚  Estudando Seguraça da Informação e Programação Web<br>
-👨‍💻 Sou formado em Gestão de TI e Analise e Desenvolvimento de Sistema na [Faculdade Flamingo](https://www.faculdadeflamingo.com.br/)<br>
+<img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=adrfelipe&show_icons=true&theme=dracula&line_height=27" alt="**André Felipe** github stats"/>
 
 
-### Habilidades: <br/> <br/> ![HTML](https://img.shields.io/badge/-HTML-ff0d00?style=flat&logoColor=white&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-196eff?style=flat&logoColor=white&logo=css3)![JavaScript](https://img.shields.io/badge/-JavaScript-ffdd19?style=flat&logoColor=white&logo=javascript) ![Linux](https://img.shields.io/badge/-Linux-black?style=flat&logo=linux) ![Kali Linux](https://img.shields.io/badge/-KaliLinux-black?style=flat&logo=linux)
-<!--
-**adrfelipe/adrfelipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+```ts
+const aboutMe = [
+  {
+    name: 'André Felipe',
+    skills: {
+      languages: ['JavaScript', 'TypeScript', 'Java', 'React'],
+      devops: ['Git', 'GitHub']
+    },
+    work: 'Alumia Educacional',
+    ocupation: 'Dev Front-End'
+  }
+];
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## **Linguagens e Ferramentas:**
+
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+
+
+[website]: https://codedev.ga/
+[twitter]: https://twitter.com/SEUTWITTER
+[youtube]: https://www.youtube.com/user/SEUYOUTUBE/
+[instagram]: https://www.instagram.com/SEUINSTAGRAM/
+[linkedin]: https://www.linkedin.com/in/SEULINKEDIN/
+<br>
+
+### Experiência de trabalho
+Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://carreiras.alumia.online/wp-content/uploads/2022/04/logo-alumia-branco-1.svg"/>](https://www.spacex.com/)
+
+**Front-End Developer** \
+[**Alumia**](https://alumia.online//) • Full-time \
+Linguagens & Tecnologias: `HTML`, `CSS3`, `JavaScript`, `TypeScript`, `GScripts`\
+
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://actdigital.com/wp-content/uploads/2020/11/logo-act.png"/>](https://rocketseat.com.br/)
+
+**Web and Front-End Developer** \
+[**ACT Digital**](https://actdigital.com/pt/) • Full-time \
+Linguagens & Tecnologias: `JavaScript`, `Angular`, `AngularJS`, `MongoDB`,\
+<br/>
+Projetos em destaque: [SafraPay PJ](https://www.safra.com.br/pessoa-juridica.htm)
+
+
+[<img align="left" height="94px" width="94px" alt="Nubank" src="https://www.nava.com.br/wp-content/uploads/2020/06/nava_topo.svg"/>](https://www.nava.com.br/pt/)
+
+**Java Developer** \
+[**NAVA - Technology for Business**](https://www.nava.com.br/pt/) • Intern \
+Linguagens & Tecnologias: `Java`, `Swagger`, `AngularJS`, `Angular`, `Jaspersoft` \
+Projetos em destaque: [Portal GIS Oi](https://gestaointegrada.oi.net.br/)
+<br/>
+<br/>
+
+Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/adrfelipe/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
+
