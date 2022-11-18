@@ -21,7 +21,7 @@ const aboutMe = [
   }
 ];
 ```
-## Estatísticas do GitHub
+## 📊 Estatísticas do GitHub
 <a href="https://github.com/adrfelipe">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrfelipe&theme=dracula&hide_langs_below=1" />
 </a>
@@ -30,12 +30,7 @@ const aboutMe = [
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=adrfelipe&show_icons=true&theme=dracula&line_height=27" alt="**adrfelipe** github stats"/>
 </a>
 
-
-
-
-### Experiência de trabalho
-
-
+## 👨‍💻 Experiência de trabalho
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://carreiras.alumia.online/wp-content/uploads/2022/04/logo-alumia-branco-1.svg"/>](https://www.spacex.com/)
 
 **Front-End Developer** \
