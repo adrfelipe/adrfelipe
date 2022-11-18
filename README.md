@@ -4,7 +4,7 @@ Gosto de compartilhar conhecimento e resolver problemas. ❤️
 
 ## 📂 Mais sobre mim
 
-<img align="right" width="300" src="https://github-readme-stats.vercel.app/api?username=adrfelipe&show_icons=true&theme=dracula&line_height=27" alt="**André Felipe** github stats"/>
+<img align="right" width="300" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="Cat typing"/>
 
 
 
@@ -17,31 +17,24 @@ const aboutMe = [
       devops: ['Git', 'GitHub']
     },
     work: 'Alumia Educacional',
-    ocupation: 'Dev Front-End'
+    ocupation: 'Front-End Developer'
   }
 ];
 ```
+## Estatísticas do GitHub
+<a href="https://github.com/adrfelipe">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrfelipe&theme=dracula&hide_langs_below=1" />
+</a>
 
-## **Linguagens e Ferramentas:**
-
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<a href="https://github.com/Gurupreet">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=adrfelipe&show_icons=true&theme=dracula&line_height=27" alt="**adrfelipe** github stats"/>
+</a>
 
 
-[website]: https://codedev.ga/
-[twitter]: https://twitter.com/SEUTWITTER
-[youtube]: https://www.youtube.com/user/SEUYOUTUBE/
-[instagram]: https://www.instagram.com/SEUINSTAGRAM/
-[linkedin]: https://www.linkedin.com/in/SEULINKEDIN/
-<br>
+
 
 ### Experiência de trabalho
+
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://carreiras.alumia.online/wp-content/uploads/2022/04/logo-alumia-branco-1.svg"/>](https://www.spacex.com/)
 
