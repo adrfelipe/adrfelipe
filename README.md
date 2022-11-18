@@ -44,8 +44,9 @@ Linguagens & Tecnologias: `HTML`, `CSS3`, `JavaScript`, `TypeScript`, `Google Sc
 **Web and Front-End Developer** \
 [**ACT Digital**](https://actdigital.com/pt/) • Full-time \
 Linguagens & Tecnologias: `JavaScript`, `Angular`, `AngularJS`, `MongoDB`,\
-<br/>
 Projetos em destaque: [SafraPay PJ](https://www.safra.com.br/pessoa-juridica.htm)
+<br/>
+
 
 
 [<img align="left" height="94px" width="94px" alt="Nubank" src="https://www.nava.com.br/wp-content/uploads/2020/06/nava_topo.svg"/>](https://www.nava.com.br/pt/)
