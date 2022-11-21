@@ -23,11 +23,11 @@ const aboutMe = [
 ```
 ## 📊 Estatísticas do GitHub
 <a href="https://github.com/adrfelipe">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrfelipe&theme=dracula&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats-beryl.vercel.app/api/top-langs/?username=adrfelipe&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
 
 <a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=adrfelipe&show_icons=true&theme=dracula&line_height=27" alt="**adrfelipe** github stats"/>
+ <img align="center" src="https://github-readme-stats-beryl.vercel.app/api?username=adrfelipe&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="**adrfelipe** github stats"/>
 </a>
 
 ## 👨‍💻 Experiência de trabalho
