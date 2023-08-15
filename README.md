@@ -11,7 +11,7 @@ Linguagens & Tecnologias: `HTML`, `CSS3`, `JavaScript`, `TypeScript`, `Google Sc
 
 <br/>
 
-[<img align="left" height="80px" width="94px" alt="ACT Digital" src="https://brazilcham.com/wp-content/uploads/2021/01/act-digital-logo.png"/>](https://actdigital.com/pt)
+[<img align="left" height="50px" width="90px" alt="ACT Digital" src="https://brazilcham.com/wp-content/uploads/2021/01/act-digital-logo.png"/>](https://actdigital.com/pt)
 
 **Web and Front-End Developer** \
 [**ACT Digital**](https://actdigital.com/pt/) • Full-time \
