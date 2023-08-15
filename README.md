@@ -2,26 +2,6 @@
 
 Gosto de compartilhar conhecimento e resolver problemas. ❤️
 
-## 📂 Mais sobre mim
-
-<img align="right" width="300" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="Cat typing"/>
-
-
-
-```ts
-const aboutMe = [
-  {
-    name: 'André Felipe',
-    skills: {
-      languages: ['JavaScript', 'TypeScript', 'Java', 'React'],
-      devops: ['Git', 'GitHub']
-    },
-    work: 'Alumia Educacional',
-    ocupation: 'Front-End Developer'
-  }
-];
-```
-
 ## 👨‍💻 Experiência de trabalho
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://carreiras.alumia.online/wp-content/uploads/2022/04/logo-alumia-branco-1.svg"/>](https://www.spacex.com/)
 
