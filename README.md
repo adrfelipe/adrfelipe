@@ -11,7 +11,7 @@ Linguagens & Tecnologias: `HTML`, `CSS3`, `JavaScript`, `TypeScript`, `Google Sc
 
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://actdigital.com/wp-content/uploads/2020/11/logo-act.png"/>](https://rocketseat.com.br/)
+[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://actdigital.com/wp-content/uploads/2020/11/logo-act.png"/>](https://actdigital.com/pt)
 
 **Web and Front-End Developer** \
 [**ACT Digital**](https://actdigital.com/pt/) • Full-time \
