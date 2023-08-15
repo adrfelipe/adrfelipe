@@ -3,7 +3,7 @@
 Gosto de compartilhar conhecimento e resolver problemas. ❤️
 
 ## 👨‍💻 Experiência de trabalho
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://carreiras.alumia.online/wp-content/uploads/2022/04/logo-alumia-branco-1.svg"/>](https://www.spacex.com/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://carreiras.alumia.online/wp-content/uploads/2022/04/logo-alumia-branco-1.svg"/>](https://alumia.online/)
 
 **Front-End Developer** \
 [**Alumia**](https://alumia.online//) • Full-time \
@@ -11,7 +11,7 @@ Linguagens & Tecnologias: `HTML`, `CSS3`, `JavaScript`, `TypeScript`, `Google Sc
 
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://actdigital.com/wp-content/uploads/2020/11/logo-act.png"/>](https://actdigital.com/pt)
+[<img align="left" height="94px" width="94px" alt="ACT Digital" src="https://brazilcham.com/wp-content/uploads/2021/01/act-digital-logo.png"/>](https://actdigital.com/pt)
 
 **Web and Front-End Developer** \
 [**ACT Digital**](https://actdigital.com/pt/) • Full-time \
