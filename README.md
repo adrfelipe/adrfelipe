@@ -10,7 +10,10 @@
 
 ###
 
-<p align="left">💻 I'm a full-stack developer since 2021<br>⚛️ NodeJS | React | Javascript<br>👨🏾‍💻 I’m System Analyst at [CalerieLife](https://www.calerie.com/)<br>🎓I'm graduated in Analysis and Development of Systems and IT management<br>📫How to reach me:</p>
+<p align="left">💻 I'm a full-stack developer since 2021<br>⚛️ NodeJS | React | Javascript<br>
+👨🏾‍💻 I’m System Analyst at CalerieLife - (https://www.calerie.com/)<br>
+🎓I'm graduated in Analysis and Development of Systems and IT management<br>
+📫How to reach me: LinkedIn</p>
 
 ###
 
