@@ -1,34 +1,36 @@
-### Olá! 👋
+<h1 align="left">Heyy!👋</h1>
 
-Gosto de compartilhar conhecimento e resolver problemas. ❤️
+###
 
-## 👨‍💻 Experiência de trabalho
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://carreiras.alumia.online/wp-content/uploads/2022/04/logo-alumia-branco-1.svg"/>](https://alumia.online/)
+<p align="left">Hey, I'm André Felipe</p>
 
-**Front-End Developer** \
-[**Alumia**](https://alumia.online//) • Full-time \
-Linguagens & Tecnologias: `HTML`, `CSS3`, `JavaScript`, `TypeScript`, `Google Scripts`
+###
 
-<br/>
+<h2 align="left">About me</h2>
 
-[<img align="left" height="94px" width="94px" alt="ACT Digital" src="https://brazilcham.com/wp-content/uploads/2021/01/act-digital-logo.png"/>](https://actdigital.com/pt)
+###
 
-**Web and Front-End Developer** \
-[**ACT Digital**](https://actdigital.com/pt/) • Full-time \
-Linguagens & Tecnologias: `JavaScript`, `Angular`, `AngularJS`, `MongoDB`,\
-Projetos em destaque: [SafraPay PJ](https://www.safra.com.br/pessoa-juridica.htm)
-<br/>
+<p align="left">💻 I'm a full-stack developer since 2021<br>⚛️ NodeJS | React | Javascript<br>👨🏾‍💻 I’m System Analyst at [CalerieLife](https://www.calerie.com/)<br>🎓I'm graduated in Analysis and Development of Systems and IT management<br>📫How to reach me:</p>
 
+###
 
+<h2 align="left">Languages and Tools</h2>
 
-[<img align="left" height="94px" width="94px" alt="Nubank" src="https://www.nava.com.br/wp-content/uploads/2020/06/nava_topo.svg"/>](https://www.nava.com.br/pt/)
+###
 
-**Java Developer** \
-[**NAVA - Technology for Business**](https://www.nava.com.br/pt/) • Intern \
-Linguagens & Tecnologias: `Java`, `Swagger`, `AngularJS`, `Angular`, `Jaspersoft` \
-Projetos em destaque: [Portal GIS Oi](https://gestaointegrada.oi.net.br/)
-<br/>
-<br/>
-
-Para mais detalhes sobre formações acadêmicas e experiências de trabalho acesse meu [LinkedIn](https://www.linkedin.com/in/adrfelipe/)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+</div>
 
